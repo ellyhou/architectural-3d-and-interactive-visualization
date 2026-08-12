@@ -32,7 +32,6 @@ Creating procedural surface details with Noise Texture and Bump nodes
 Developing materials for flour, wood, fabric, ceramics, and food objects
 Adjusting roughness and reflectivity using Principled BSDF
 
-Only visual documentation of the completed work is included.
 
 03 — Camera Animation
 
@@ -62,20 +61,6 @@ Controlling camera position and focus during mode changes
 
 Screenshots and recordings document the interaction without distributing the original course assets.
 
-Repository Structure
-.
-├── 01-architectural-modelling/
-│   ├── architectural-building.blend
-│   └── media/
-├── 02-materials-and-shading/
-│   └── media/
-├── 03-camera-animation/
-│   ├── market-animation.mp4
-│   └── media/
-├── 04-verge3d-interaction/
-│   └── media/
-├── .gitignore
-└── README.md
 Tools
 Blender
 Verge3D
@@ -87,5 +72,3 @@ Course Assets
 This repository documents work completed as part of a university 3D visualization course.
 
 The architectural model in Exercise 1 was created independently by the author. Exercises 2–4 were developed using base scenes and assets provided for educational purposes by the course instructors.
-
-To respect the ownership of these materials, the original course-provided models, textures, Blender source files, and complete Verge3D application are not distributed in this repository. Only the author’s final visual results, animation, interaction documentation, and independently created work are presented.
